@@ -1,8 +1,8 @@
-package com.telusko.quizapp.controller;
+package com.hariharan.quizapp.controller;
 
 
-import com.telusko.quizapp.model.Question;
-import com.telusko.quizapp.service.QuestionService;
+import com.hariharan.quizapp.model.Question;
+import com.hariharan.quizapp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
